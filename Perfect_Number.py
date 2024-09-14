@@ -1,3 +1,5 @@
+# Perfect number is a positive integer that is equal to the sum of its proper divisors excluding itself.
+
 def is_perfect_number(n):
     if n < 1:
         return "Your entered number is not a perfect number"
